@@ -1,1 +1,3 @@
 # NEST-GRAPHQL
+
+# Jasmin Thummar
