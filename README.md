@@ -1,3 +1,3 @@
-# NEST-GRAPHQL
+# NEST-GRAPHQL-POSTGRESQL
 
-# Jasmin Thummar
+# Jasmin Thummar -
